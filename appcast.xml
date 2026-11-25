@@ -113,5 +113,22 @@
         type="application/octet-stream" />
     </item>
 
+    <item>
+      <title>Version 2.0.64</title>
+      <pubDate>Wed, 25 Nov 2026 18:28:25 +0000</pubDate>
+      <sparkle:version>64</sparkle:version>
+      <sparkle:shortVersionString>2.0.64</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <link>https://github.com/bm888/mac-screen-utilities-releases/releases/latest</link>
+      <sparkle:informationalUpdate>
+        <sparkle:belowVersion>62</sparkle:belowVersion>
+      </sparkle:informationalUpdate>
+      <enclosure
+        url="https://github.com/bm888/mac-screen-utilities-releases/releases/download/v2.0.64/MacScreenUtilities-2.0.64.zip"
+        sparkle:edSignature="syJ/IBlEmQfe2PcO6fTfoFlY6ufzmkWUh3I/Yd5n2+7359kkBbMkwJ5f210mOEw66oMmWb2folBvDzGtx7z3Dg=="
+        length="1416999"
+        type="application/octet-stream" />
+    </item>
+
   </channel>
 </rss>
