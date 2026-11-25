@@ -102,6 +102,10 @@
       <sparkle:version>62</sparkle:version>
       <sparkle:shortVersionString>2.0.62</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <link>https://github.com/bm888/mac-screen-utilities-releases/releases/latest</link>
+      <sparkle:informationalUpdate>
+        <sparkle:belowVersion>62</sparkle:belowVersion>
+      </sparkle:informationalUpdate>
       <enclosure
         url="https://github.com/bm888/mac-screen-utilities-releases/releases/download/v2.0.62/MacScreenUtilities-2.0.62.zip"
         sparkle:edSignature="g6mqyFiF8MnmzhK9cjktPoZGhonyLNKDGcRVkEZAnRmEW7+u0H6WoIEH9uG9Peco6rf/nwMAtnqNq79tc452Bg=="
